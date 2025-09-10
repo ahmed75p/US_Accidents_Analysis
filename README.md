@@ -100,6 +100,8 @@ Weather conditions such as low visibility, high humidity, and certain temperatur
 📷 Sample Dashboard:
 
 [Location & Datetime](https://github.com/ahmed75p/US_Accidents_Analysis/blob/main/images/Screenshot%20.png)
+
+
 [Weather Effect](https://github.com/ahmed75p/US_Accidents_Analysis/blob/main/images/Screenshot%202025-09-10%20033948.png)
 
 
@@ -118,8 +120,9 @@ Contributions, issues, and feature requests are welcome.
 📬 Contact
 Ahmed Mostafa
 📧 ahmedmostafa75p@gmail.com
-🌐 LinkedIn Profile
- (https://www.linkedin.com/in/ahmed-mostafa-841412250/)
+
+
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mostafa-841412250/)
 
 
 
