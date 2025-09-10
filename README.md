@@ -1,10 +1,10 @@
 🚗 US Accidents Analysis
+
 📌 Overview
 This project analyzes road accidents in the United States using a dataset that contains detailed information about each accident, including location, severity, weather conditions, and time.
 The goal is to clean and prepare the data, then build interactive dashboards to explore accident patterns and understand the impact of weather and time on accident severity.
 
 📊 Dataset
-
 The dataset includes:
 Accident ID: Unique identifier for each accident
 Location: Street, city, and state
@@ -43,10 +43,17 @@ Two interactive dashboards were created in Power BI:
 │── report/ # Power BI dashboard and final report
 │── README.md # Project documentation
 
+🚀 Tools & Technologies
+Python: Data cleaning and preprocessing
+Power BI: Data visualization and dashboards
+Excel/CSV: Data storage format
+GitHub: Project hosting and version control
 
+📌 Key Insights
+Most accidents occur in specific states and during peak traffic times.
+Weather conditions such as low visibility, high humidity, and certain temperatures have a strong correlation with accident frequency.
 
-
-
+📷 Sample Dashboard:
 
 
 
