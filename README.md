@@ -62,11 +62,21 @@ Two interactive dashboards were created in Power BI:
 
 
 📂 Project Structure
+
 📁 US_Accidents_Project
+
 │── data/ # Raw and cleaned datasets
+
+
 │── notebooks/ # Jupyter notebooks for analysis
+
+
 │── images/ # Screenshots of dashboards
+
+
 │── report/ # Power BI dashboard and final report
+
+
 │── README.md # Project documentation
 
 
